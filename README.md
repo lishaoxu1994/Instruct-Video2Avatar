@@ -1,3 +1,6 @@
 # Instruct-Video2Avatar
 
-<div align=center><img src="demo/demo1_1.gif"/><img src="demo/demo1_2.gif"/></div>
+<p float="left">
+  <img src="demo/demo1_1.gif" width="100" />
+  <img src="demo/demo1_2.png" width="100" /> 
+</p>
