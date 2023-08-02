@@ -83,7 +83,7 @@ For training, set `"render_from_snapshot": false`. For rendering from a checkpoi
 ### Dataset
 We are releasing part of our training dataset and the checkpoint. We use the [avatars](https://keeper.mpdl.mpg.de/d/5ea4d2c300e9444a8b0b/) from [INSTA](https://github.com/Zielon/INSTA). 
 
-Some checkpoints [Edited Avatars](https://1drv.ms/f/s!AifTYS5w-RoZgirAv8msnvreruK5?e=IY7oZl).
+Some checkpoints [Edited Avatars](https://1drv.ms/f/s!AopReTZiOgmocrqOmYNb-5iFV8s?e=833Dcl).
 
 For Dataset Generation of original videos, we direct the user to [INSTA](https://github.com/Zielon/INSTA) and [Metrical Photometric Tracker](https://github.com/Zielon/metrical-tracker)
 
